@@ -1,6 +1,6 @@
 <?php
-namespace Parte1Examen\models;
-use Parte1Examen\config\config;
+namespace PruebaExtraordinariaParte1\models;
+use PruebaExtraordinariaParte1\config\config;
 use mysqli;
 class baseDatos
 {

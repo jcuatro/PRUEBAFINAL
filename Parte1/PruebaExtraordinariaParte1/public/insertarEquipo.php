@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__.'/../vendor/autoload.php';
-use Parte1Examen\models\Juego;
+use PruebaExtraordinariaParte1\models\Juego;
 $baseDatos=new Juego();
 ?>
 <!DOCTYPE html>

@@ -1,5 +1,5 @@
 <?php
-namespace Parte1Examen\src\config;
+namespace PruebaExtraordinariaParte1\src\config;
 /**
  *
  */

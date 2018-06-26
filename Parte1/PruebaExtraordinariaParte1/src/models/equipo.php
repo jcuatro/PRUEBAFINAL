@@ -1,5 +1,5 @@
 <?php
-namespace Parte1Examen\models;
+namespace PruebaExtraordinariaParte1\models;
 /**
  *
  */

@@ -1,5 +1,5 @@
 <?php
-namespace Parte1Examen\models;
+namespace PruebaExtraordinaria1Parte1\models;
 class Juego extends baseDatos
 {
     private $nombre="";

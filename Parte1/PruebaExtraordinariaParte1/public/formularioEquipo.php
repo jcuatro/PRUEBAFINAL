@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__.'/../vendor/autoload.php';
-use Parte1Examen\models\equipo;
+use PruebaExtraordinariaParte1\models\equipo;
 $baseDatos=new equipo();
 if (isset($_POST["crear"])){
   $baseDatos->insertarEquipo($_POST['nombre'],$_POST['participantes']);
